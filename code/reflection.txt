@@ -1,4 +1,4 @@
-Write your reflection here.
+I learned/experienced using API calls/requests with Python in this assignment, which was really useful and interesting because I've worked professionally with APIs in the past, but only through HTML. It was interesting to see how differently the mechanisms around calling an API are in Python when compared to HTML, such as with the status calls and json usage. I struggled with understadning how entites passed and were classified by the model, as I couldn't see the process in front of my eyes and didn't understand all o fthe mechanisms behind it. In the future, I will look to further extend my abilities to write/call into APIs using Python, as this can prove to be very udeful down the stretch of my career/ coding work and especially in personal coding projects where API calls can really enhance what I'm trying to accopmlish.
 
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from this assignment (REST API, endpoint, HTTP status code,
